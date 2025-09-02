@@ -35,6 +35,7 @@ A collection of my **graphic design journey**, including posters, ads, mockups, 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design.png" width="auto" height="400"/>
+   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/mockup%201-%20wedding%20card.png" width="auto" height="400"/>
 />
 </p>
 
@@ -42,9 +43,6 @@ A collection of my **graphic design journey**, including posters, ads, mockups, 
    <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Thank%20you%20card/mockup%20thank%20you%20card.png" width="auto" height="400"/> 
 </p>
 
-<p>
- <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/mockup%201-%20wedding%20card.png" width="auto" height="400"/>
-</p>
 ---
 
 ✨ More designs coming soon…
