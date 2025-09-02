@@ -6,8 +6,8 @@ checkout my designs and show some love✨❤️...
 
 ## 🖼️ Posters  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics Journey/coffee ad with tagline.png" width="300"/>
-   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics Journey/Poster design/poster design for cafe final version.png" width="300"/>
-</p>
+  <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design/poster%20design%20for%20cafe%20final%20version.png"
+/>
+  
 
  
