@@ -16,6 +16,7 @@ A collection of my **graphic design journey**, including posters, ads, mockups, 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/coffee%20ad%20with%20tagline.png" width="auto" height="400"
 />
+  <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design/Gym%20poster2%20final.png" width="auto" height="400"/>
 </p>
 
 <p align="center">
