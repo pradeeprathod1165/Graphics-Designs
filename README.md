@@ -23,9 +23,6 @@ A collection of my **graphic design journey**, including posters, ads, mockups, 
 <p align="center">
    <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design/Denim%20showcase.png" width="auto" height="400"/>
 </p>
-<p align="center">
-   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/blob/main/Graphics%20Journey/Poster%20design/organic%20store%20offer%20poster%20final%20version.png" width="auto" height="400"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Carousel%20posts/CAROUSEL%20POST1.png" width="100%" height="400"
