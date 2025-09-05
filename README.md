@@ -3,7 +3,7 @@ Here are some of my designs made with passion and love while learning graphics d
 <br>
 checkout my designs and show some love✨❤️...
 
-A collection of my **graphic design journey**, including posters, ads, mockups, and creative projects.  
+Here a collection of my **graphic design journey**, including posters, ads, mockups, and creative projects.  
 
 ---
 
