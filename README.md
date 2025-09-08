@@ -45,6 +45,10 @@ Here a collection of my **graphic design journey**, including posters, ads, mock
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design/techmart%20ad%20poster%202.png" width="300" height="400"/>
+</p>
+
+<p align="center">
    <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Thank%20you%20card/mockup%20thank%20you%20card.png" width="auto" height="400"/> 
 </p>
 
