@@ -1,3 +1,11 @@
+# Graphics Portfolio
+
+This repository showcases original graphic design work by **Pradeep Lahu Rathod**.  
+⚠️ Images are uploaded only for portfolio purposes and are **not free to use**.  
+
+For inquiries or permission, please contact: pradeeprathod71119@gmail.com
+
+
 # Graphic-Design
 Here are some of my designs made with passion and love while learning graphics design 🎨❤️
 <br>
