@@ -1,5 +1,4 @@
 # Graphics Portfolio
-
 This repository showcases original graphic design work by **Pradeep Lahu Rathod**.  
 ⚠️ Images are uploaded only for portfolio purposes and are **not free to use**.  
 
