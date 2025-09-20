@@ -60,5 +60,6 @@ Here a collection of my **graphic design journey**, including posters, ads, mock
 
 ---
 
-✨More designs coming soon…
+✨More designs coming soon...........
+
 
