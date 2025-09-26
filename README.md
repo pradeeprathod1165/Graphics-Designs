@@ -33,7 +33,7 @@ Here a collection of my **graphic design journey**, including posters, ads, mock
 <p align="center">
    <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Poster%20design/Denim%20showcase.png" width="auto" height="400"/>
 </p>
-
+    
 <p align="center">
   <img src="https://raw.githubusercontent.com/pradeeprathod1165/Graphics-Designs/main/Graphics%20Journey/Carousel%20posts/CAROUSEL%20POST1.png" width="100%" height="400"
 />
